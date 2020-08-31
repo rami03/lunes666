@@ -12,6 +12,25 @@
 /* ******************************** */
 
 /* Colores */
+html{
+    background-color: #afaeea;
+    text-align: 18px;
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
 
+}
 /* ******************************** */
+
+/* footer */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
 
